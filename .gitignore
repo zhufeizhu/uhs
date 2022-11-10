@@ -1,0 +1,6 @@
+.dist/
+.vscode/
+test/bin
+trace/
+bin/
+build/
